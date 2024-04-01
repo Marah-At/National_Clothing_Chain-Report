@@ -57,6 +57,7 @@ Analysis Questions:
  ### Third tab : Customer Insights 
 
   * According to the analysis , Jon Little has the highest Income ( 597,214).
+    
 ![image](https://github.com/Marah-At/National_Clothing_Chain-Report/assets/121014215/24ff0cfb-559b-45fd-b19d-c246b1de7a93)
 
 ## Recommendations :
