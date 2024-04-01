@@ -28,18 +28,21 @@ Analysis Questions:
 
 ## Final Report :
 
-### Data Model 
+ ### Data Model 
 ![image](https://github.com/Marah-At/National_Clothing_Chain-Report/assets/121014215/603cfe1b-5ce6-410e-914c-589fb0437acd)
 
-### First tab : Income & Sales Insights 
+ ### First tab : Income & Sales Insights 
 
+  * Based on the Average Income by state visual , the following states have the highest income in the United States ( District of Columbia, New Jersey, Maryland, Massachusetts and Hawaii)
+    While the following states have the lowest income ( New Mexico, Kentucky, Arkansas, West Virginia and Mississippi).
   * There is a strong correlation (R2) of 0.78 with a positive relationship ( It means that as average income increases, average expected sales rise ).
   * The formula that can be used to predict customer incomes & Sales is :   x = b-y/-m
-    x : Average Income , y : Average Sales , b and m variables are replaced with the actual values . 
+    x : Average Income , y : Average Sales , b and m variables are replaced with the actual values .
+  * The distribution of predicted income by category.
 
 ![image](https://github.com/Marah-At/National_Clothing_Chain-Report/assets/121014215/6557a6a0-8baf-4cfc-9da0-4d4a7dedecbd)
 
-### Second tab : Product Insights
+ ### Second tab : Product Insights
 
   * There is a correlation (R2) of 0.69 with a negative relationship ( It means that as Customer rating increases, the expected product return rate decrease)
     "The products with a higher rating have a lower return rate, which indicates customer satisfaction ".
@@ -51,10 +54,17 @@ Analysis Questions:
 
 ![image](https://github.com/Marah-At/National_Clothing_Chain-Report/assets/121014215/97114eb9-8ea4-4ba9-a30d-d7978f98a0d0)
 
-### Third tab : Customer Insights 
+ ### Third tab : Customer Insights 
 
   * According to the analysis , Jon Little has the highest Income ( 597,214).
 ![image](https://github.com/Marah-At/National_Clothing_Chain-Report/assets/121014215/24ff0cfb-559b-45fd-b19d-c246b1de7a93)
+
+## Recommendations :
+
+  * The shirts have a good customer rating (3.5 – 4.2) with a low return rate, so these products can be marketed.
+  * The leather bag is one of the lowest-rated products(3.3) so we must work to improve the quality of the product in proportion to the price, and we can market it in high-income state.
+  * The chronograph watch, Leather Sneakers and Long Dress are among the three highest-rated products , so we can discuss the advertising of these products .
+
 
 
 
